@@ -2,6 +2,7 @@
 
 Desenvolvedor em formação (6º semestre), buscando oportunidade de **estágio em Desenvolvimento Back-end**.
 
-- 💻 **Foco Técnico:** Java, Spring Boot, REST APIs, Streams API, Collections, IO, Orientação a Objetos e banco de dados.
+- 💻 **Foco Técnico:** Java, Streams API, Collections, IO e Orientação a Objetos.
+- 🚀 **Em Aprendizado:** Spring Boot, REST APIs e Banco de Dados.
 - ⚙️ **Prática:** Resolução de problemas no LeetCode, construção de algoritmos e desenvolvimento de sistemas.
 - 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/carlos-oli/) | **E-mail:** carlos.oli.h23@gmail.com
